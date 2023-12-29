@@ -24,7 +24,7 @@ p {
   background-color: transparent;
 }
 .cross:hover {
-  transform: rotate(90deg); /* Rotate by 90 degrees on hover */
+  transform: rotate(90deg);
 }
 
 .home {
