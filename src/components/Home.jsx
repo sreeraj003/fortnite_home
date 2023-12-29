@@ -1,8 +1,10 @@
 import './home.css'
+import { RxCross2 } from "react-icons/rx";
 
 function Home() {
     return (
         <>
+                <div className="cross"><RxCross2 /></div>
             <div className='home container'>
                 <div className="row whole ">
                     <div className="col-12">
